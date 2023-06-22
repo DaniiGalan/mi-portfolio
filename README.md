@@ -13,7 +13,7 @@ Optimizado para móviles.
 - [https://gleaming-speculoos-af5ee3.netlify.app] - FrontEndStore
 
 ## Instalación
-Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
+Estos proyectos no necesita instalación. Simplemente abrir la carpeta o haz doble click en el .html
 
 ## Contacto
 Contactar a danielgalancedres@gmail.com
