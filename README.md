@@ -9,7 +9,8 @@ Optimizado para móviles.
 
 
 ## Ver ejemplo en vivo
-- [https://daniigalan.github.io/mi-portfolio/]
+- [https://primerproyecto-danigalan.netlify.app] - PrimerProyecto
+- [https://gleaming-speculoos-af5ee3.netlify.app] - FrontEndStore
 
 ## Instalación
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
